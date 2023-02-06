@@ -6,4 +6,6 @@ function applyRandomColor() {
     document.getElementById('container').style.backgroundColor = color;
 }
 
+
+// 2
 // export the function to be used outside the file
